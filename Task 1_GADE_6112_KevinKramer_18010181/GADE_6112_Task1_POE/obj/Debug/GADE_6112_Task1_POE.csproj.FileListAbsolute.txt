@@ -1,0 +1,10 @@
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\bin\Debug\GADE_6112_Task1_POE.exe.config
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\bin\Debug\GADE_6112_Task1_POE.exe
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\bin\Debug\GADE_6112_Task1_POE.pdb
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.MainForm.resources
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.Properties.Resources.resources
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.csproj.GenerateResource.cache
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.csproj.CoreCompileInputs.cache
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.exe
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.pdb
+C:\Users\krame\Desktop\Vega\GADE6112\GADE_6112_Task1_POE\GADE_6112_Task1_POE\obj\Debug\GADE_6112_Task1_POE.csprojAssemblyReference.cache
